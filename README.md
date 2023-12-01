@@ -1,1 +1,2 @@
 # Altotech
+print('Hi')
